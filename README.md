@@ -38,14 +38,15 @@ object-oriented programming.
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSH0607-ux&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH0607-ux&layout=compact)
 
 *(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com
+- 📧 Email: namballaayush@gmail.com
+
 
 ---
 *Thanks for visiting my profile!*

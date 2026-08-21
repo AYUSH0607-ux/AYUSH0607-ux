@@ -34,14 +34,12 @@ object-oriented programming.
 | [Python Mini Projects](https://github.com/AYUSH0607-ux/python-mini-projects) | A collection of small Python projects covering GUI development, APIs, game logic, and everyday utilities |
 | [DSA Practice](#) | Ongoing repository of data structures and algorithms problems solved in Python |
 
-*(Replace the `#` links above with the actual URLs to your repos)*
 
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSH0607-ux&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH0607-ux&layout=compact)
 
-*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
 
 ## 📫 Contact
 

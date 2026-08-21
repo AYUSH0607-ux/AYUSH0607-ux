@@ -31,7 +31,7 @@ object-oriented programming.
 
 | Project | Description |
 |---|---|
-| [Python Mini Projects](#) | A collection of small Python projects covering GUI development, APIs, game logic, and everyday utilities |
+| [Python Mini Projects](https://github.com/AYUSH0607-ux/python-mini-projects) | A collection of small Python projects covering GUI development, APIs, game logic, and everyday utilities |
 | [DSA Practice](#) | Ongoing repository of data structures and algorithms problems solved in Python |
 
 *(Replace the `#` links above with the actual URLs to your repos)*

@@ -1,50 +1,44 @@
 # Hi, I'm Ayush Namballa 👋
 
-2nd Year CSE Undergraduate @ NIT Puducherry
+🎓 2nd Year CSE Undergraduate @ NIT Puducherry
+🎯 Aspiring AI/ML Engineer
 
-I'm a Computer Science student focused on building strong fundamentals in software
-engineering and moving toward a career in AI/ML Engineering. I enjoy solving problems
-through code and am currently deepening my skills in data structures, algorithms, and
-object-oriented programming.
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at NIT Puducherry
-- 💻 Currently strengthening my foundations in Python and Java
-- 📚 Practicing Data Structures & Algorithms consistently
-- 🌱 Exploring GUI development, APIs, and small utility projects
-- 🎯 Long-term goal: AI/ML Engineering roles at product-based companies
+I'm a Computer Science student passionate about problem-solving and building
+things with code. Currently sharpening my fundamentals in Python and Java
+while working through data structures & algorithms, with a long-term goal
+of breaking into AI/ML Engineering.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+## 📚 What I've Learned
 
-**Tools**
+- ✅ Python fundamentals — recursion, hashing, sorting, pattern printing, and array manipulation
+- ✅ Built multiple GUI apps using PyQt5 (Weather App, Stopwatch, Digital Clock, and more)
+- ✅ Core Data Structures & Algorithms — arrays, two-pointers, hashing-based problems
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🌱 What I'm Currently Learning
 
-## 📌 Featured Projects
+- 🔄 Practicing DSA consistently in Python (arrays, two-pointers, sliding window)
+- 🔄 Learning Java — currently working through OOP concepts like polymorphism and inheritance
+- 🔄 Exploring Dynamic Programming (memoization & tabulation)
+- 🔄 Building a strong foundation for AI/ML through structured self-study
 
-| Project | Description |
-|---|---|
-| [Python Mini Projects](https://github.com/AYUSH0607-ux/python-mini-projects) | A collection of small Python projects covering GUI development, APIs, game logic, and everyday utilities |
-| [DSA Practice](#) | Ongoing repository of data structures and algorithms problems solved in Python |
+## 📌 Projects
 
+- 🌦️ [Weather App](https://github.com/AYUSH0607-ux/python-mini-projects/blob/main/weather%20app.py) — Fetches live weather data using the OpenWeatherMap API
+- 🕐 [Digital Clock](https://github.com/AYUSH0607-ux/python-mini-projects/blob/main/Digital%20clock.py) — Live-updating digital clock built with PyQt5
+- ⏱️ [Stopwatch](https://github.com/AYUSH0607-ux/python-mini-projects/blob/main/stop%20watch.py) — Real-time stopwatch built with PyQt5's QTimer
+- 🔐 [Password Generator](https://github.com/AYUSH0607-ux/python-mini-projects/blob/main/Password%20Generator.py) — Generates secure random passwords
+- 📱 [QR Code Generator](https://github.com/AYUSH0607-ux/python-mini-projects/blob/main/Qr%20code%20Generator.py) — Generates QR codes from user input
 
-## 📊 GitHub Stats
+## 📫 Reach Me
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSH0607-ux&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH0607-ux&layout=compact)
-
-
-## 📫 Contact
-
-- 📧 Email: namballaayush@gmail.com
-
+📧 namballaayush@gmail.com
 
 ---
-*Thanks for visiting my profile!*
+⭐️ Always learning, always building.
